@@ -1,0 +1,48 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.main_box{
+    width: 500px;
+    height:500px;
+    background-color: white;
+    border-radius: 20px;
+
+}
+.main{
+    width: 100%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque
+}
+
+h1{
+    text-align: center;
+}
+
+.entry{
+    padding: 30px 0px;
+   text-align: center;
+}
+.entry p{
+    padding-bottom: 15px;
+}
+
+.Converter{
+    display: flex;
+    justify-content: space-around;
+}
+
+.From,.To{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:5px
+}
+.message{
+    padding: 10px 0px;
+    text-align: center;
+}
