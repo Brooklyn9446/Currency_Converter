@@ -46,3 +46,8 @@ h1{
     padding: 10px 0px;
     text-align: center;
 }
+
+.submit{
+    display: flex;
+    justify-content: center;
+}
