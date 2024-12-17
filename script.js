@@ -14,3 +14,5 @@ for( let select of data){
         console.log(event.target.value)
     })
 }
+
+console.log(12)
